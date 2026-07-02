@@ -7,7 +7,7 @@ load_dotenv()
 # -----------------------------
 # Gemini API Key
 # -----------------------------
-my_api_key = "AQ.Ab8RN6Iy8miq4fBCFVvKUHjYphX03rRi1BNryyqsUa3cOh8DEw"
+my_api_key = "YOUR_GEMINI_API"
 
 # Configure Gemini
 genai.configure(api_key= my_api_key)
